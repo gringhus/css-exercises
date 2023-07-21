@@ -1,0 +1,19 @@
+p {
+    background-color: #ff1c9d;
+    font-family: 'verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.happy {
+        color: #2f71ff;
+        font-size: 36px;
+}
+
+.sad {
+    font-size: 24px;
+}
+
+.mood {
+    background-color: #00ff7f;
+    font-size: 24px;
+    font-weight: bold;
+}
